@@ -1,10 +1,14 @@
-body{
-    background-color: black;
-}
-.Page
-{
- color:white;
- width:"50rem";
- height: "100rem";
- background-color:white;
-}
+
+   .page {
+        margin-top: 2rem;
+        background-color: rgb(0, 0, 0);
+        width: 55rem;
+        height: 70rem;
+        display: flex;
+        margin-inline: auto;
+        overflow: auto;
+        padding: 1rem;
+        box-sizing: border-box;
+        box-shadow: 0px 0px 5px 2px rgb(0, 0, 0);
+    }
+    
